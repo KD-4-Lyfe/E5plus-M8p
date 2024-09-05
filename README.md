@@ -1,2 +1,4 @@
 # E5-M8p
-Ender 5 plus manta M8P
+Ender 5 plus BTT manta M8P V2
+
+THIS IS NOT COMPLETE, CURRENTLY WILL NOT WORK!
